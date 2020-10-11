@@ -10,17 +10,17 @@ we would like to utilizing GAN network to generate full-body image of anime-like
 
 We found some useful paper talking about how to generate anime-like faces, which could be very close to full-body generation. Most of them utilize GAN network to gerenate and then discriminate the generated work from real work. Some other articals talking about style trasfer which could also be helpful.
 
-[Full-body High-resolution Anime Generation with Progressive Structure-conditional Generative Adversarial Networks](https://arxiv.org/pdf/1809.01890.pdf)
-[Progressive growing of GANs for imrpoved quality, stability, and variation](https://arxiv.org/pdf/1710.10196.pdf)
-[A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/pdf/1812.04948.pdf)
-[Multi-Human-Parsing (MHP)](https://github.com/ZhaoJ9014/Multi-Human-Parsing)
-[Making Anime Faces With StyleGAN](https://www.gwern.net/Faces#)
+[Full-body High-resolution Anime Generation with Progressive Structure-conditional Generative Adversarial Networks](https://arxiv.org/pdf/1809.01890.pdf)  
+[Progressive growing of GANs for imrpoved quality, stability, and variation](https://arxiv.org/pdf/1710.10196.pdf)  
+[A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/pdf/1812.04948.pdf)  
+[Multi-Human-Parsing (MHP)](https://github.com/ZhaoJ9014/Multi-Human-Parsing)  
+[Making Anime Faces With StyleGAN](https://www.gwern.net/Faces#)  
 
 **What data will you use? If you are collecting new data, how will you do it?**  
 
 We found some dataset but it is kind of old-fashioned. We will keep trying to find more data sets as possible. If we cannot find satisfying data sets, we can use scripts to collect figures from internet.
 
-[Manga109](http://www.manga109.org/en/)
+[Manga109](http://www.manga109.org/en/)  
 
 **What method or algorithm are you proposing? If there are existing implementations, will you use them and how? How do you plan to improve or modify such implementations? You don't have to have an exact answer at this point, but you should have a general sense of how you will approach the problem you are working on.**
 
