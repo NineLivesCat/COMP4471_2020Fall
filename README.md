@@ -10,5 +10,6 @@ LIN, Yifei (ylinbz@connnect.ust.hk)
 refer to [kaggle](https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles) for detail about this project.
 
 ## Recent update
+2020/10/11 change topic to 2d full-body anime characters generation
 2020/10/11 modify readme
 2020/10/11 init commit
