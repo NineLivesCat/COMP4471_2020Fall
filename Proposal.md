@@ -1,6 +1,6 @@
 # COMP4471_2020Fall
 
-Team Member: HUANG, Qiucan; CHEN, Sida; LIN, Yifei
+Team Member: CHEN, Sida; HUANG, Qiucan; LIN, Yifei
 
 **What is the problem that you will be investigating? Why is it interesting?**  
 
@@ -24,8 +24,8 @@ We found some dataset but it is kind of old-fashioned. We will keep trying to fi
 
 **What method or algorithm are you proposing? If there are existing implementations, will you use them and how? How do you plan to improve or modify such implementations? You don't have to have an exact answer at this point, but you should have a general sense of how you will approach the problem you are working on.**
 
-We plan to use GAN network. They use a network to generate the details on faces, and another network to classify whether it is a true one or fake one. We will definitely learn from this model, but also modify it a little bit. We plan to use two different networks to generate faces and bodies seperately, and then use another network to distinguish them together.
+We plan to use GAN network. They use a network to generate the details on faces, and another network to classify whether it is a true one or fake one. We will definitely learn from this model, but also modify it a little bit. We plan to use two different networks to generate faces and bodies separately, and then use another network to distinguish them together.
 
 **How will you evaluate your results? Qualitatively, what kind of results do you expect (e.g. plots or figures)? Quantitatively, what kind of analysis will you use to evaluate and/or compare your results (e.g. what performance metrics or statistical tests)?** 
 
-Our network need to generate figures that are similiar to real anime characters. The similarity and rationality is the most important criteria. Quantitatively, 
+Our network need to generate figures that are similar to real anime characters. The similarity and rationality is the most important criteria. Quantitatively, it depends on the network. Currently we don't have a concrete idea, we are reading some papers and implementations about our topic in order to learn more about it.
