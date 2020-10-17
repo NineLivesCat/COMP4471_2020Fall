@@ -14,9 +14,11 @@ The topic is aimed to generate full body difference anime characters. Our curren
 
 
 ## Recent update
-2020/10/17 update readme file
-2020/10/11 change topic to 2d full-body anime characters generation
-2020/10/11 modify readme
+2020/10/17 update readme file  
+2020/10/11 change topic to 2d full-body anime characters generation  
+2020/10/11 modify readme  
 
 ## Reference
+
+### Anime Generation
 Towards the Automatic Anime Characters Creation with Generative Adversarial Networks [arxiv](https://arxiv.org/abs/1708.05509)
