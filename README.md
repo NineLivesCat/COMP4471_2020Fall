@@ -20,5 +20,8 @@ The topic is aimed to generate full body difference anime characters. Our curren
 
 ## Reference
 
+### GAN
+Generative Adversarial Nets [arxiv](https://arxiv.org/abs/1406.2661)  
+
 ### Anime Generation
-Towards the Automatic Anime Characters Creation with Generative Adversarial Networks [arxiv](https://arxiv.org/abs/1708.05509)
+Towards the Automatic Anime Characters Creation with Generative Adversarial Networks [arxiv](https://arxiv.org/abs/1708.05509)  
