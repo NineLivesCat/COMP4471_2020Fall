@@ -27,7 +27,6 @@ Analyzing and Improving the Image Quality of StyleGAN [arxiv](https://arxiv.org/
 Progressive Growing Of GANS For Improved Quality, Stability, And Variation [arxiv](https://arxiv.org/abs/1710.10196)  
 StackGAN++: Realistic Image Synthesis with Stacked Generative Adversarial Networks [arxiv](https://arxiv.org/abs/1710.10916)  
 A Style-Based Generator Architecture for Generative Adversarial Networks [arxiv](https://arxiv.org/abs/1812.04948)  
-Analyzing and Improving the Image Quality of StyleGAN [arxiv](https://arxiv.org/abs/1912.04958)  
 
 ### Anime Generation
 Towards the Automatic Anime Characters Creation with Generative Adversarial Networks [arxiv](https://arxiv.org/abs/1708.05509)  
