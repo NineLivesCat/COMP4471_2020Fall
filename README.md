@@ -7,20 +7,13 @@ CHEN, Sida (schenci@connect.ust.hk)
 HUANG, Qiucan (qhuangag@connect.ust.hk)  
 LIN, Yifei (ylinbz@connnect.ust.hk)  
 
-The topic is aimed to generate full body difference anime characters. Our current plan is :
-- [ ] Auto-remove color in anime pictures
-- [ ] Generate semantic map
-- [ ] Auto-colorization anime pictures drawing
+The topic is aimed to generate full body difference anime characters by using GAN.
 
-
-## Recent update
-2020/11/05 add more references  
-2020/10/17 update readme file  
-2020/10/11 change topic to 2d full-body anime characters generation  
-2020/10/11 modify readme  
+## Base Model
+StyleGAN [github](https://github.com/NVlabs/stylegan)
+StyleGAN2 [github](https://github.com/NVlabs/stylegan2)
 
 ## Reference
-
 ### GAN
 Generative Adversarial Nets [arxiv](https://arxiv.org/abs/1406.2661)  
 Analyzing and Improving the Image Quality of StyleGAN [arxiv](https://arxiv.org/abs/1912.04958)  
